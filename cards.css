@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.card-title {
+  font-weight: 700 !important;
+}
+
+main {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+img {
+  height: 12em;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+footer > p {
+  margin: 20px 40px;
+}
+/*# sourceMappingURL=cards.css.map */
